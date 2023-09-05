@@ -6,7 +6,7 @@ Meu nome é [Seu Nome], e sou estudante de sistemas de informação em busca de 
 
 ## HABILIDADES
 
-<i class = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 ![image](https://github.com/tiagosousagomes/tiagosousagomes/assets/130390979/5596ad3b-15d4-4bbd-9972-c2d6c464cee9) ![image](https://github.com/tiagosousagomes/tiagosousagomes/assets/130390979/9412ba57-536d-499b-8a47-b21fafe751fc) ![image](https://github.com/tiagosousagomes/tiagosousagomes/assets/130390979/5300fc1f-4af8-43d7-bf5f-acab9c459418) ![image](https://github.com/tiagosousagomes/tiagosousagomes/assets/130390979/f7a298e7-ae77-4126-9606-402c7fccd02c) ![image](https://github.com/tiagosousagomes/tiagosousagomes/assets/130390979/75c08f32-0279-4004-a2a9-e029d6f7ed54) https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
 
 ## PROJETOS
