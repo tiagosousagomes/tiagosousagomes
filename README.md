@@ -12,11 +12,13 @@ Meu nome é Tiago Sousa, e sou estudante de sistemas de informação em busca de
 <img  align = "center" height= "50" widht = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img  align = "center" height= "50" widht = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
-## PROJETOS
 
-##
+## PROJETOS 
+a href = ""
 
-![image](https://github.com/tiagosousagomes/tiagosousagomes/assets/130390979/2f55703e-89ff-405b-986b-fd265373692c) ![image](https://github.com/tiagosousagomes/tiagosousagomes/assets/130390979/3da15a85-a481-4a49-b6de-efa6b8ea2092) ![image](https://github.com/tiagosousagomes/tiagosousagomes/assets/130390979/e3048d7c-f71b-434b-b3c4-6aa09273bbb9)
+## REDES SOCIAIS
+
+<a href = "tiagosousagomes14@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 
