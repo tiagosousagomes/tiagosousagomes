@@ -14,7 +14,7 @@ Meu nome é Tiago Sousa, e sou estudante de sistemas de informação em busca de
 </div>
 
 ## PROJETOS 
-a href = ""
+
 
 ## REDES SOCIAIS
 
